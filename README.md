@@ -1,6 +1,7 @@
 # Na_paper
 Codes used in Sato et al., 2025, iScience.
 A design principle for neuronal firing with up-down oscillation through Na+ dynamics.
+DOI: 10.1016/j.isci.2025.111904
 
 ## README: Codes used in this study
 ### Overview
